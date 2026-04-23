@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__laravel-boost__application-info",
+      "Bash(vendor/bin/pint --format agent \".guidelines/prd.md\")"
+    ]
+  }
+}
